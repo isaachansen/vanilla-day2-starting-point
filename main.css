@@ -55,16 +55,8 @@ input {
 }
 
 button {
-  border-top-right-radius: 15px;
-  border-bottom-right-radius: 15px;
-  background: radial-gradient(
-    red,
-    green,
-    rgba(0, 0, 255, 0.461),
-    yellow,
-    purple,
-    indigo
-  );
+  border-radius: 15px;
+  background-color: purple;
   color: white;
   font-size: 18px;
   font-weight: 900;
